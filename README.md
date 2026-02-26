@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Full Stack Developer with 4+ years of experience in building scalable, secure, and high-performance web applications. I have worked extensively on E-commerce platforms and Learning Management Systems (LMS), delivering reliable and business-focused solutions.<br><br>My core expertise is in ASP.NET, ASP.NET MVC, C#, and SQL Server, along with modern frontend technologies such as JavaScript, TypeScript, React.js, and Next.js. I work comfortably across both backend and frontend, ensuring smooth integration, clean architecture, and maintainable code.<br><br>I focus on writing efficient, optimized code and building applications that meet real-world business needs.<br>
+I am a Full Stack Developer with 4+ years of experience in frontend development and 2+ years of hands-on experience in .NET full-stack development, building scalable, secure, and high-performance web applications. I have worked extensively on E-commerce platforms and Learning Management Systems (LMS), delivering reliable and business-focused solutions.<br><br>
+
+My backend expertise includes ASP.NET, ASP.NET MVC, C#, and SQL Server, where I design robust APIs, implement clean architecture, and optimize database performance. On the frontend, I work with JavaScript, TypeScript, React.js, and Next.js to build responsive, intuitive, and high-performing user interfaces.<br><br>
+
+I work confidently across both frontend and backend, ensuring seamless integration, maintainable code, and scalable application architecture. I focus on writing clean, efficient, and optimized code that solves real-world business problems.<br>
 
 
 ## 🌐 Socials:
